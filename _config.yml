@@ -5,7 +5,7 @@ logo: logo.png
 
 # Information about where the book exists on the web
 repository:
-  url: https://github.com/damorimRG/practical_testing_book
+  url: https://galilasmb.github.io/testing-book
 launch_buttons:
   notebook_interface: "classic" # The interface interactive links will activate ["classic", "jupyterlab"]
   binderhub_url: "https://mybinder.org"
